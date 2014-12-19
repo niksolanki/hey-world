@@ -1,4 +1,4 @@
 hey-world
 =========
 
-sample repo
+sample repo. first project on git hub.
